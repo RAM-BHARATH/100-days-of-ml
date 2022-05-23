@@ -7,3 +7,10 @@
 1. Intro to ML
 2. Framing
 3. Descending into ML
+
+## Day2
+
+3. Descending into ML
+    - Training and Loss
+4. Reducing Loss (Video Lecture)
+    - Gradient Descent Exercise
