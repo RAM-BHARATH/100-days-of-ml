@@ -12,5 +12,14 @@
 
 3. Descending into ML
     - Training and Loss
-4. Reducing Loss (Video Lecture)
+4. Reducing Loss
+    - Video Lecture
     - Gradient Descent Exercise
+
+## Day3
+
+4. Reducing Loss
+    - Learning Rate
+    - Optimized Learning Rate
+    - Stochastic Gradient Descent
+    
