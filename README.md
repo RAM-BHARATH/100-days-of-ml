@@ -23,3 +23,13 @@
     - Optimized Learning Rate
     - Stochastic Gradient Descent
     
+## Day4
+
+4. Reducing Loss
+    - Stochastic Gradient Descent
+    - Reducing Loss: Playground Exercise - Learning Rate and Convergence
+
+5. First Steps with TF
+    - Introduction to TensorFlow
+    - First Steps with TensorFlow: Programming Exercises
+        - NumPy and pandas
