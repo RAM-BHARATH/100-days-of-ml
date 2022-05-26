@@ -32,4 +32,9 @@
 5. First Steps with TF
     - Introduction to TensorFlow
     - First Steps with TensorFlow: Programming Exercises
-        - NumPy and pandas
+        - NumPy UltraQuick Tutorial
+## Day5
+
+5. First Steps with TF
+    - First Steps with TensorFlow: Programming Exercises
+        - pandas UltraQuick Tutorial
