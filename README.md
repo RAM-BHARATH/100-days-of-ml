@@ -33,8 +33,17 @@
     - Introduction to TensorFlow
     - First Steps with TensorFlow: Programming Exercises
         - NumPy UltraQuick Tutorial
+        
 ## Day5
 
 5. First Steps with TF
     - First Steps with TensorFlow: Programming Exercises
         - pandas UltraQuick Tutorial
+
+## Day6
+
+6. First Steps with TF
+    - First Steps with TensorFlow: Programming Exercises
+        - Linear Regression with Synthetic Data
+        - Linear Regression with a Real Dataset
+
