@@ -47,3 +47,8 @@
         - Linear Regression with Synthetic Data
         - Linear Regression with a Real Dataset
 
+## Day7
+
+7. Generalizataion
+    - Video Lecture
+    - Peril of Overfitting 
