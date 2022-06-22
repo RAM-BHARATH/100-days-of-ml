@@ -52,3 +52,11 @@
 7. Generalizataion
     - Video Lecture
     - Peril of Overfitting 
+
+## Day 8
+After less than a  month's break
+
+8. Training and Testing Set
+    - Video Lecture
+    - Splitting Data
+    - Exercise
