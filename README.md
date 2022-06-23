@@ -60,3 +60,7 @@ After less than a  month's break
     - Video Lecture
     - Splitting Data
     - Exercise
+
+## Day 9
+
+9. Validation set
