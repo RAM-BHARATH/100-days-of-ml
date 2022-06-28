@@ -68,4 +68,7 @@ After less than a  month's break
 ## Day 10
 
 9. Validation Set
+
+## Day 11
+
 10. Representation
